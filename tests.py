@@ -13,6 +13,10 @@ class TestCase(unittest.TestCase):
         input_str = ''
         self.assertFalse(check_pwd(input_str))
 
+    def test_02(self):
+        input_str = '1234567'
+        self.assertFalse(check_pwd(input_str))
+
 
 if __name__ == '__main__':
     unittest.main()
