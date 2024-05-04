@@ -43,3 +43,11 @@ To demonstrate the steps taken when using TDD, a new commit was created each tim
 2. Implemented code caused a failing test to pass
 
 For each commit, there is a message describing the changes made. 
+
+## Observing the Test Driven Development Proccess
+* Begin by clicking on "commits" in the Test-Driven-Development repository
+* Navigate to the bottom of the page to find the earliest commit and open it
+* Observe the changes made to code
+* Click back to the previous page and open the next commit
+The final commit will contain a complete test suite and code that meets all required specifications.
+
