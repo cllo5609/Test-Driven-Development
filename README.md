@@ -49,5 +49,6 @@ For each commit, there is a message describing the changes made.
 * Navigate to the bottom of the page to find the earliest commit and open it
 * Observe the changes made to code
 * Click back to the previous page and open the next commit
+
 The final commit will contain a complete test suite and code that meets all required specifications.
 
